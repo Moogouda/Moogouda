@@ -1,5 +1,4 @@
-[![TryHackMe Badge](<img src="https://tryhackme-badges.s3.amazonaws.com/Mo0gouda.png" alt="Your Image Badge" />
-)](https://tryhackme.com/p/Mo0gouda)
+[![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5436619)](https://tryhackme.com/p/Mo0gouda)
 <!--
 **Moogouda/Moogouda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
